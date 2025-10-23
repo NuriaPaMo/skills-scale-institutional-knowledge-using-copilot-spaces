@@ -25,8 +25,18 @@ The following documents provide detailed guidance on each aspect of our project 
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](octoacme-roles-and-personas.md)
 
-## Related Issue
+## Templates and Tools
 
-This documentation was created as part of [Issue #2](https://github.com/NuriaPaMo/skills-scale-institutional-knowledge-using-copilot-spaces/issues/2).
+The following templates support consistent execution of our project management processes:
+
+- [Role Onboarding Template](role-onboarding-template.md) - Standardized onboarding for new team members
+- [Role Responsibilities Sign-off Template](role-responsibilities-signoff-template.md) - Clarify expectations and accountability
+- [Stakeholder Communications Template](stakeholder-communications-template.md) - Consistent stakeholder engagement
+
+## Related Issues
+
+This documentation was initially created as part of [Issue #2](https://github.com/NuriaPaMo/skills-scale-institutional-knowledge-using-copilot-spaces/issues/2).
+
+Role expansion and process improvements were implemented as part of [Issue #4](https://github.com/NuriaPaMo/skills-scale-institutional-knowledge-using-copilot-spaces/issues/4).
 
 Reviewer: @NuriaPaMo
