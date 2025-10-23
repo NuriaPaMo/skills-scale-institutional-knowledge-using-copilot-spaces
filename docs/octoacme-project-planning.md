@@ -10,11 +10,18 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 
 ## Activities
 1. Kickoff meeting with stakeholders and delivery team
+   - Include: Project Manager, Product Manager, Developers, QA Lead, UX Designer, Stakeholder Representatives
+   - Reference: [Role Onboarding Template](role-onboarding-template.md) for new team members
 2. Create prioritized backlog with acceptance criteria
+   - Product Manager leads with input from UX Designer and Stakeholder Representatives
 3. Estimate scope (T-shirt sizing or story points)
+   - Developers lead estimation with QA Lead input for testing effort
 4. Define Definition of Done (DoD)
+   - Include QA criteria from QA Lead, design validation from UX Designer
 5. Identify dependencies and integration points
+   - Technical Writer identifies documentation needs; Release Manager identifies deployment dependencies
 6. Create release plan and milestone map
+   - Release Manager coordinates release scheduling
 
 ## Backlog Item Template
 - Title:
@@ -36,8 +43,11 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
 ## Planning Checklist
-- [ ] Project kickoff held
+- [ ] Project kickoff held with all key roles (see [Roles and Personas](octoacme-roles-and-personas.md))
 - [ ] Backlog prioritized and estimated
-- [ ] Release timeline and milestones agreed
-- [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] Release timeline and milestones agreed with Release Manager
+- [ ] Definition of Done documented including QA and design criteria
+- [ ] Initial test plan / QA approach drafted by QA Lead
+- [ ] UX design requirements identified and scheduled
+- [ ] Documentation plan created with Technical Writer
+- [ ] Stakeholder communication plan established (see [Stakeholder Communications Template](stakeholder-communications-template.md))
